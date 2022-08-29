@@ -2,7 +2,7 @@
 
 🍿 This is the repositroy for practice leetcode with golang
 
-👩‍💻 However, we just choose problem from [neetcode](neetcode.io) about 150
+👩‍💻 However, we just choose problem from [neetcode](https://neetcode.io) about 150
 <!--
 
 **Here are some ideas to get you started:**
